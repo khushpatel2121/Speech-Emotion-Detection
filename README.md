@@ -28,9 +28,4 @@ This project centers around building machine learning models for speech emotion 
 - **Accuracy**: Accuracy is used to measure the overall performance of the models in correctly predicting the emotions from the audio samples.
 - **Confusion Matrix**: Confusion matrix provides insights into the classification performance by showing the true positives, true negatives, false positives, and false negatives for each class.
 
-## Contributors:
-- [Your Name]
-- [Any other contributors]
 
-## License:
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
