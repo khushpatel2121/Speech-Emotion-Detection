@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/icons-material": "^5.15.18",
+    "@mui/material": "^5.15.18",
+    "@react-three/drei": "^9.105.6",
+    "@react-three/fiber": "^8.16.6",
+    "react-blink-text": "^1.0.5",
+    "three": "^0.164.1",
+    "three-js": "^79.0.0"
+  },
+  "name": "EmotionApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
